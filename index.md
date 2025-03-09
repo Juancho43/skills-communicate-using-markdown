@@ -12,3 +12,8 @@ $season = "Fall";
 
 echo "Active season: " . $season;
 ```
+
+- [x] Summer
+- [ ] Fall
+- [ ] Winter
+- [ ] Spring
